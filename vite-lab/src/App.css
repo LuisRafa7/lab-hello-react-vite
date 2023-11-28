@@ -1,0 +1,61 @@
+body {
+  margin: 0;
+}
+
+.navbar {
+  background-color: #29465b;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.navbar img {
+  padding: 2rem 5rem 2rem 5rem;
+}
+
+#menu {
+  height: 1rem;
+  width: 1.5rem;
+  margin-top: 1rem;
+}
+
+.mainApp {
+  background-color: #29465b;
+  padding: 2rem 5rem 2rem 5rem;
+  height: 40rem;
+}
+
+.mainApp h1 {
+  color: white;
+  font-size: 5rem;
+}
+
+.mainApp p {
+  color: white;
+  font-size: 2rem;
+}
+
+.mainApp button {
+  padding: 5rem;
+  background-color: white;
+  padding: 1.5rem;
+  border: none;
+  font-size: 1.5rem;
+  border-radius: 1rem;
+  margin-top: 2rem;
+}
+
+.icons {
+  padding: 2rem 5rem 2rem 5rem;
+  height: 40rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 80%;
+  margin: auto;
+}
+
+.iconsEach {
+  width: 20%;
+}
